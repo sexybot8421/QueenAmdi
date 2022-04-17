@@ -1,5 +1,5 @@
 {
-    "name": "queen_amdi",
+    "name": "silen_bot",
     "version": "3.6.2v",
     "description": "Queen Amdi Bot project - a Whatsapp userbot helping to improve your Whatsapp experience.",
     "main": "./QueenAmdi/assets/module.js",
@@ -8,7 +8,7 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/BlackAmda/QueenAmdi.git"
+      "url": "git+https://github.com/sexybot8421/QueenAmdi.git"
     },
     "keywords": [
       "whatsapp"
